@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/bitnami-shell:10-debian-10-r202
+FROM docker.io/bitnami/zookeeper:3.7.0-debian-10-r157
