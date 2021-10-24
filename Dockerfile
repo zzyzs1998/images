@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/kafka:2.8.1-debian-10-r25
+FROM docker.io/bitnami/3.9.8-debian-10-r0
