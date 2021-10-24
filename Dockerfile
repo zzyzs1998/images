@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/rabbitmq-cluster-operator:1.10.0-scratch-r1
+FROM docker.io/bitnami/redis-cluster:6.2.6-debian-10-r0
