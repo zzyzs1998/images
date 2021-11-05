@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/rabbitmq:3.9.8-debian-10-r6
+FROM docker.io/bitnami/kafka:2.8.0-debian-10-r30
