@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/blackbox-exporter:v0.19.0
+FROM jimmidyson/configmap-reload:v0.5.0
