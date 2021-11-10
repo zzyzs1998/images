@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/zookeeper:3.7.0-debian-10-r56
+FROM quay.io/brancz/kube-rbac-proxy:v0.11.0
