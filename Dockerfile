@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.22.2
+FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.0
