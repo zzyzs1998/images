@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.29.1
+FROM docker.io/bitnami/prometheus-operator:0.51.2-debian-10-r20
