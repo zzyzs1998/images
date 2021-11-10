@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/prometheus:2.30.3-debian-10-r19
+FROM docker.io/bitnami/alertmanager:0.23.0-debian-10-r61
