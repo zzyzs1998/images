@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/prometheus-operator:0.51.2-debian-10-r20
+FROM docker.io/bitnami/prometheus:2.30.3-debian-10-r19
