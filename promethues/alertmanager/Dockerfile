@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.22.2
+FROM docker.io/bitnami/alertmanager:0.23.0-debian-10-r61
