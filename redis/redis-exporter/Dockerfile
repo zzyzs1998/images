@@ -1,1 +1,1 @@
-FROM bitnami/redis-exporter:1.31.3
+FROM docker.io/bitnami/redis-exporter:1.29.0-debian-10-r6
