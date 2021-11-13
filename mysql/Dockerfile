@@ -1,1 +1,1 @@
-FROM mysql:8.0.27
+FROM docker.io/mysql:8.0.27
