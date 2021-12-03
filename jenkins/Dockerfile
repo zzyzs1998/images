@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/jenkins:2.303.1-debian-10-r29
+FROM docker.io/bitnami/jenkins:2.303.3-debian-10-r23
