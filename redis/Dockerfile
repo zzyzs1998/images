@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/redis:6.2.6-debian-10-r21
+FROM docker.io/bitnami/redis:7.0.5-debian-11-r9
