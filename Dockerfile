@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/alertmanager:0.23.0-debian-10-r61
+ FROM rook/ceph:v1.6.3
