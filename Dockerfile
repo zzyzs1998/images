@@ -1,1 +1,1 @@
-FROM bitnami/rabbitmq:3.11.2-debian-11-r0
+FROM bitnami/mysql:8.0.31-debian-11-r0
