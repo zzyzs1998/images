@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:v3.3.1
+FROM bitnami/redis-cluster:6.2.6-debian-10-r0
