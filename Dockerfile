@@ -1,1 +1,1 @@
-FROM bitnami/mysql:8.0.31-debian-11-r0
+FROM ceph/ceph:v15.2.11
