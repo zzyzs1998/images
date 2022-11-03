@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+FROM bitnami/jenkins:2.303.3-debian-10-r23
