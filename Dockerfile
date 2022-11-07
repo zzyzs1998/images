@@ -1,1 +1,1 @@
-FROM jenkins/jnlp-slave
+FROM jenkins/jnlp-agent-alpine:latest
