@@ -1,1 +1,1 @@
-FROM jenkins/jnlp-slave:alpine
+FROM jenkins/jenkins:2.361.3-lts
