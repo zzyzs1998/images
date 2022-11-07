@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.361.3-lts
+FROM bitnami/jenkins:2.361.3
