@@ -1,1 +1,1 @@
-FROM jenkins/jnlp-slave:alpine
+FROM jenkins/jnlp-slave:latest
