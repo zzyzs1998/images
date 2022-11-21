@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
