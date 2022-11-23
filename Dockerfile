@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/blackbox-exporter:v0.21.0
+FROM quay.io/prometheus-operator/prometheus-config-reloader:v0.57.0
