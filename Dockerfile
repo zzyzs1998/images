@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.36.1
+FROM registry.k8s.io/sig-storage/csi-provisioner:v3.2.0
