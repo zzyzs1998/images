@@ -1,1 +1,1 @@
-FROM rancher/rancher:v2.6.7-linux-amd64
+FROM rancher/rancher-agent:v2.6.7
