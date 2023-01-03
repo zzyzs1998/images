@@ -1,1 +1,1 @@
-FROM rancher/rancher-agent:v2.7.0
+FROM rancher/rancher:v2.6.7
