@@ -1,1 +1,1 @@
-FROM bitnami/rabbitmq:3.9.8-debian-10-r0
+FROM docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
