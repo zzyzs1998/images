@@ -1,1 +1,1 @@
-FROM nginx:latest
+FROM gitlab/gitlab-ce:latest
