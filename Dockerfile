@@ -1,1 +1,1 @@
-FROM kong
+FROM postgres
