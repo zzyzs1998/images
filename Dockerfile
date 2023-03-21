@@ -1,1 +1,1 @@
-FROM pantsel/konga
+FROM golang:1.20.2
