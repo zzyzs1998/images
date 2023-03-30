@@ -1,1 +1,1 @@
-FROM busybox
+FROM mysql:5.7
