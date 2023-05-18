@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:2.0.2
+FROM registry.k8s.io/sig-storage/nfsplugin:v4.2.0
