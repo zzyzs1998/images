@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.2.0
+FROM registry.k8s.io/sig-storage/csi-provisioner:v3.3.0
