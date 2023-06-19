@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor:latest
+FROM registry.cn-beijing.aliyuncs.com/dotbalo/debug-tools
